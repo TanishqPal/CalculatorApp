@@ -42,12 +42,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-Your Name
+Tanishq Pal
 
 ## Related Projects
 
 If you have any related projects or repositories, you can list them here.
-
 ---
-
-Feel free to customize the content based on your preferences and project requirements. Make sure to replace "Your Name" with your actual name.
